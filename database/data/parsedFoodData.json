@@ -1,0 +1,2225 @@
+[
+  {
+    "foodName": "Hummus, commercial",
+    "foodCals": 229,
+    "foodPortions": [
+      {
+        "id": 118804,
+        "value": 2,
+        "measureUnit": {
+          "id": 1001,
+          "name": "tablespoon",
+          "abbreviation": "tbsp"
+        },
+        "modifier": "",
+        "gramWeight": 33.9,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2015,
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "foodName": "Tomatoes, grape, raw",
+    "foodCals": 27,
+    "foodPortions": [
+      {
+        "id": 118808,
+        "value": 5,
+        "measureUnit": {
+          "id": 1082,
+          "name": "tomatoes",
+          "abbreviation": "tomatoes"
+        },
+        "modifier": "",
+        "gramWeight": 49.7,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2016,
+        "amount": 5
+      },
+      {
+        "id": 118809,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "",
+        "gramWeight": 152,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2016,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Beans, snap, green, canned, regular pack, drained solids",
+    "foodCals": 21,
+    "foodPortions": [
+      {
+        "id": 118859,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "drained",
+        "gramWeight": 129,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2015,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Frankfurter, beef, unheated",
+    "foodCals": 314,
+    "foodPortions": [
+      {
+        "id": 118987,
+        "value": 1,
+        "measureUnit": {
+          "id": 1043,
+          "name": "piece",
+          "abbreviation": "piece"
+        },
+        "modifier": "",
+        "gramWeight": 48.6,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2015,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Nuts, almonds, dry roasted, with salt added",
+    "foodCals": 620,
+    "foodPortions": [
+      {
+        "id": 119012,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "whole",
+        "gramWeight": 135,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2001,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Kale, raw",
+    "foodCals": 35,
+    "foodPortions": [
+      {
+        "id": 119057,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "pieces of ~1\"",
+        "gramWeight": 20.6,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2015,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Egg, whole, raw, frozen, pasteurized",
+    "foodCals": 150,
+    "foodPortions": [
+      {
+        "id": 119060,
+        "value": 1,
+        "measureUnit": {
+          "id": 1038,
+          "name": "oz",
+          "abbreviation": "oz"
+        },
+        "modifier": "",
+        "gramWeight": 28.4,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2017,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Egg, white, raw, frozen, pasteurized",
+    "foodCals": 48,
+    "foodPortions": [
+      {
+        "id": 119063,
+        "value": 1,
+        "measureUnit": {
+          "id": 1038,
+          "name": "oz",
+          "abbreviation": "oz"
+        },
+        "modifier": "",
+        "gramWeight": 28.4,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2017,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Egg, white, dried",
+    "foodCals": 376,
+    "foodPortions": [
+      {
+        "id": 119069,
+        "value": 1,
+        "measureUnit": {
+          "id": 1001,
+          "name": "tablespoon",
+          "abbreviation": "tbsp"
+        },
+        "modifier": "",
+        "gramWeight": 7,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2017,
+        "amount": 1
+      },
+      {
+        "id": 119070,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "sifted",
+        "gramWeight": 107,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2017,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Onion rings, breaded, par fried, frozen, prepared, heated in oven",
+    "foodCals": 288,
+    "foodPortions": [
+      {
+        "id": 119129,
+        "value": 1,
+        "measureUnit": {
+          "id": 1043,
+          "name": "piece",
+          "abbreviation": "piece"
+        },
+        "gramWeight": 20.2,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2012,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Pickles, cucumber, dill or kosher dill",
+    "foodCals": 12,
+    "foodPortions": [
+      {
+        "id": 119202,
+        "value": 1,
+        "measureUnit": {
+          "id": 1077,
+          "name": "spear",
+          "abbreviation": "spear"
+        },
+        "modifier": "",
+        "gramWeight": 40.4,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2016,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Cheese, parmesan, grated",
+    "foodCals": 421,
+    "foodPortions": [
+      {
+        "id": 119233,
+        "value": 1,
+        "measureUnit": {
+          "id": 1001,
+          "name": "tablespoon",
+          "abbreviation": "tbsp"
+        },
+        "gramWeight": 7.6,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2013,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Cheese, pasteurized process, American, vitamin D fortified",
+    "foodCals": 366,
+    "foodPortions": [
+      {
+        "id": 119257,
+        "value": 1,
+        "measureUnit": {
+          "id": 1050,
+          "name": "slice",
+          "abbreviation": "slice"
+        },
+        "gramWeight": 20.6,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2011,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Grapefruit juice, white, canned or bottled, unsweetened",
+    "foodCals": 37,
+    "foodPortions": [
+      {
+        "id": 119275,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "",
+        "gramWeight": 257,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2015,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Peaches, yellow, raw",
+    "foodCals": 42,
+    "foodPortions": [
+      {
+        "id": 119283,
+        "value": 1,
+        "measureUnit": {
+          "id": 1028,
+          "name": "fruit",
+          "abbreviation": "fruit"
+        },
+        "modifier": "small (2-1/2\" dia)",
+        "gramWeight": 147,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 119282,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "slices with skin",
+        "gramWeight": 154,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 119285,
+        "value": 1,
+        "measureUnit": {
+          "id": 1028,
+          "name": "fruit",
+          "abbreviation": "fruit"
+        },
+        "modifier": "large (2-3/4\" dia)",
+        "gramWeight": 173,
+        "sequenceNumber": 4,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 119286,
+        "value": 1,
+        "measureUnit": {
+          "id": 1028,
+          "name": "fruit",
+          "abbreviation": "fruit"
+        },
+        "modifier": "extra large (3\" dia)",
+        "gramWeight": 225,
+        "sequenceNumber": 5,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 119284,
+        "value": 1,
+        "measureUnit": {
+          "id": 1028,
+          "name": "fruit",
+          "abbreviation": "fruit"
+        },
+        "modifier": "medium (2-2/3\" dia)",
+        "gramWeight": 161,
+        "sequenceNumber": 3,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 119287,
+        "value": 1,
+        "measureUnit": {
+          "id": 1049,
+          "name": "serving",
+          "abbreviation": "serving"
+        },
+        "modifier": "NLEA ",
+        "gramWeight": 147,
+        "sequenceNumber": 6,
+        "minYearAcquired": 2001,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Seeds, sunflower seed kernels, dry roasted, with salt added",
+    "foodCals": 612,
+    "foodPortions": [
+      {
+        "id": 119299,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "",
+        "gramWeight": 127,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2015,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Bread, white, commercially prepared",
+    "foodCals": 270,
+    "foodPortions": [
+      {
+        "id": 119338,
+        "value": 1,
+        "measureUnit": {
+          "id": 1050,
+          "name": "slice",
+          "abbreviation": "slice"
+        },
+        "gramWeight": 27.3,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2010,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Kale, frozen, cooked, boiled, drained, without salt",
+    "foodCals": 36,
+    "foodPortions": [
+      {
+        "id": 119431,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "cooked",
+        "gramWeight": 118,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2015,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Mustard, prepared, yellow",
+    "foodCals": 61,
+    "foodPortions": [
+      {
+        "id": 119501,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "gramWeight": 249,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2003,
+        "amount": 1
+      },
+      {
+        "id": 119500,
+        "value": 1,
+        "measureUnit": {
+          "id": 1002,
+          "name": "teaspoon",
+          "abbreviation": "tsp"
+        },
+        "gramWeight": 6,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2003,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Kiwifruit, green, raw",
+    "foodCals": 58,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Nectarines, raw",
+    "foodCals": 39,
+    "foodPortions": [
+      {
+        "id": 119531,
+        "value": 1,
+        "measureUnit": {
+          "id": 1071,
+          "name": "each",
+          "abbreviation": "each"
+        },
+        "modifier": "2-1/3\" dia",
+        "gramWeight": 129,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2000,
+        "amount": 1
+      },
+      {
+        "id": 119533,
+        "value": 1,
+        "measureUnit": {
+          "id": 1071,
+          "name": "each",
+          "abbreviation": "each"
+        },
+        "modifier": "2-3/4\" dia",
+        "gramWeight": 156,
+        "sequenceNumber": 4,
+        "minYearAcquired": 2000,
+        "amount": 1
+      },
+      {
+        "id": 119532,
+        "value": 1,
+        "measureUnit": {
+          "id": 1071,
+          "name": "each",
+          "abbreviation": "each"
+        },
+        "modifier": " 2-1/2\" dia",
+        "gramWeight": 142,
+        "sequenceNumber": 3,
+        "minYearAcquired": 2000,
+        "amount": 1
+      },
+      {
+        "id": 119534,
+        "value": 1,
+        "measureUnit": {
+          "id": 1049,
+          "name": "serving",
+          "abbreviation": "serving"
+        },
+        "modifier": "NLEA",
+        "gramWeight": 140,
+        "sequenceNumber": 5,
+        "minYearAcquired": 2000,
+        "amount": 1
+      },
+      {
+        "id": 119530,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": " slices",
+        "gramWeight": 143,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2000,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Cheese, cheddar",
+    "foodCals": 408,
+    "foodPortions": [
+      {
+        "id": 119619,
+        "value": 1,
+        "measureUnit": {
+          "id": 1050,
+          "name": "slice",
+          "abbreviation": "slice"
+        },
+        "gramWeight": 17,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2013,
+        "amount": 1
+      },
+      {
+        "id": 119620,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "gramWeight": 105,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2014,
+        "amount": 1,
+        "portionDescription": "shredded"
+      }
+    ]
+  },
+  {
+    "foodName": "Cheese, cottage, lowfat, 2% milkfat",
+    "foodCals": 84,
+    "foodPortions": [
+      {
+        "id": 119652,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "gramWeight": 220,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2013,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Cheese, mozzarella, low moisture, part-skim",
+    "foodCals": 298,
+    "foodPortions": [
+      {
+        "id": 119685,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "gramWeight": 86.2,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2013,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Egg, whole, dried",
+    "foodCals": 575,
+    "foodPortions": [
+      {
+        "id": 119690,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "sifted",
+        "gramWeight": 85,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2017,
+        "amount": 1
+      },
+      {
+        "id": 119691,
+        "value": 1,
+        "measureUnit": {
+          "id": 1001,
+          "name": "tablespoon",
+          "abbreviation": "tbsp"
+        },
+        "modifier": "",
+        "gramWeight": 5,
+        "sequenceNumber": 3,
+        "minYearAcquired": 2017,
+        "amount": 1
+      },
+      {
+        "id": 119689,
+        "value": 1,
+        "measureUnit": {
+          "id": 1038,
+          "name": "oz",
+          "abbreviation": "oz"
+        },
+        "modifier": "",
+        "gramWeight": 28.4,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2017,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Egg, yolk, raw, frozen, pasteurized",
+    "foodCals": 296,
+    "foodPortions": [
+      {
+        "id": 119694,
+        "value": 1,
+        "measureUnit": {
+          "id": 1038,
+          "name": "oz",
+          "abbreviation": "oz"
+        },
+        "modifier": "",
+        "gramWeight": 28.4,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2017,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Egg, yolk, dried",
+    "foodCals": 654,
+    "foodPortions": [
+      {
+        "id": 119700,
+        "value": 1,
+        "measureUnit": {
+          "id": 1001,
+          "name": "tablespoon",
+          "abbreviation": "tbsp"
+        },
+        "modifier": "",
+        "gramWeight": 4,
+        "sequenceNumber": 3,
+        "minYearAcquired": 2017,
+        "amount": 1
+      },
+      {
+        "id": 119699,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "sifted",
+        "gramWeight": 67,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2017,
+        "amount": 1
+      },
+      {
+        "id": 119698,
+        "value": 1,
+        "measureUnit": {
+          "id": 1038,
+          "name": "oz",
+          "abbreviation": "oz"
+        },
+        "modifier": "",
+        "gramWeight": 28.4,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2017,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Yogurt, Greek, plain, nonfat",
+    "foodCals": 61,
+    "foodPortions": [
+      {
+        "id": 119735,
+        "value": 1,
+        "measureUnit": {
+          "id": 1023,
+          "name": "container",
+          "abbreviation": "container"
+        },
+        "gramWeight": 156,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2012,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Yogurt, Greek, strawberry, nonfat",
+    "foodCals": 83,
+    "foodPortions": [
+      {
+        "id": 119737,
+        "value": 1,
+        "measureUnit": {
+          "id": 1023,
+          "name": "container",
+          "abbreviation": "container"
+        },
+        "modifier": "5.3 oz",
+        "gramWeight": 150,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2014,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Oil, coconut",
+    "foodCals": 833,
+    "foodPortions": [
+      {
+        "id": 119748,
+        "value": 1,
+        "measureUnit": {
+          "id": 1001,
+          "name": "tablespoon",
+          "abbreviation": "tbsp"
+        },
+        "modifier": "liquid oil",
+        "gramWeight": 11.6,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2014,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Chicken, broilers or fryers, drumstick, meat only, cooked, braised",
+    "foodCals": 156,
+    "foodPortions": [
+      {
+        "id": 121309,
+        "value": 1,
+        "measureUnit": {
+          "id": 1026,
+          "name": "drumstick",
+          "abbreviation": "drumstick"
+        },
+        "modifier": "with skin",
+        "gramWeight": 104,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2010,
+        "amount": 1
+      },
+      {
+        "id": 121308,
+        "value": 1,
+        "measureUnit": {
+          "id": 1026,
+          "name": "drumstick",
+          "abbreviation": "drumstick"
+        },
+        "modifier": "without skin",
+        "gramWeight": 94.7,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2010,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",
+    "foodCals": 166,
+    "foodPortions": [
+      {
+        "id": 121343,
+        "value": 1,
+        "measureUnit": {
+          "id": 1043,
+          "name": "piece",
+          "abbreviation": "piece"
+        },
+        "gramWeight": 174,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2012,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Sauce, pasta, spaghetti/marinara, ready-to-serve",
+    "foodCals": 45,
+    "foodPortions": [
+      {
+        "id": 121416,
+        "value": 1,
+        "measureUnit": {
+          "id": 1049,
+          "name": "serving",
+          "abbreviation": "serving"
+        },
+        "modifier": "1/2 cup",
+        "gramWeight": 135,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2009,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",
+    "foodCals": 106,
+    "foodPortions": [
+      {
+        "id": 121438,
+        "value": 1,
+        "measureUnit": {
+          "id": 1050,
+          "name": "slice",
+          "abbreviation": "slice"
+        },
+        "modifier": "",
+        "gramWeight": 13.5,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2015,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Olives, green, Manzanilla, stuffed with pimiento",
+    "foodCals": 130,
+    "foodPortions": [
+      {
+        "id": 121478,
+        "value": 1,
+        "measureUnit": {
+          "id": 1067,
+          "name": "olive",
+          "abbreviation": "olive"
+        },
+        "modifier": "",
+        "gramWeight": 3.2,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2015,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Cookies, oatmeal, soft, with raisins",
+    "foodCals": 430,
+    "foodPortions": [
+      {
+        "id": 121513,
+        "value": 1,
+        "measureUnit": {
+          "id": 1022,
+          "name": "cookie",
+          "abbreviation": "cookie"
+        },
+        "modifier": "",
+        "gramWeight": 27,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2016,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Tomatoes, canned, red, ripe, diced",
+    "foodCals": 18,
+    "foodPortions": [
+      {
+        "id": 121582,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "",
+        "gramWeight": 245,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2016,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Fish, haddock, raw",
+    "foodCals": 74,
+    "foodPortions": [
+      {
+        "id": 121591,
+        "value": 1,
+        "measureUnit": {
+          "id": 1027,
+          "name": "fillet",
+          "abbreviation": "fillet"
+        },
+        "gramWeight": 176,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2008,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Fish, pollock, raw",
+    "foodCals": 56,
+    "foodPortions": [
+      {
+        "id": 121600,
+        "value": 1,
+        "measureUnit": {
+          "id": 1027,
+          "name": "fillet",
+          "abbreviation": "fillet"
+        },
+        "gramWeight": 177,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2008,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Fish, tuna, light, canned in water, drained solids",
+    "foodCals": 90,
+    "foodPortions": [
+      {
+        "id": 121698,
+        "value": 1,
+        "measureUnit": {
+          "id": 1019,
+          "name": "can",
+          "abbreviation": "can"
+        },
+        "modifier": "total can contents",
+        "gramWeight": 142,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2011,
+        "amount": 1
+      },
+      {
+        "id": 121697,
+        "value": 1,
+        "measureUnit": {
+          "id": 1019,
+          "name": "can",
+          "abbreviation": "can"
+        },
+        "modifier": "drained solids",
+        "gramWeight": 107,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2011,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Restaurant, Chinese, fried rice, without meat",
+    "foodCals": 174,
+    "foodPortions": [
+      {
+        "id": 121786,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "gramWeight": 133,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2013,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Restaurant, Latino, tamale, pork",
+    "foodCals": 174,
+    "foodPortions": [
+      {
+        "id": 121795,
+        "value": 1,
+        "measureUnit": {
+          "id": 1043,
+          "name": "piece",
+          "abbreviation": "piece"
+        },
+        "gramWeight": 142,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2009,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Restaurant, Latino, pupusas con frijoles (pupusas, bean)",
+    "foodCals": 229,
+    "foodPortions": [
+      {
+        "id": 121806,
+        "value": 1,
+        "measureUnit": {
+          "id": 1043,
+          "name": "piece",
+          "abbreviation": "piece"
+        },
+        "gramWeight": 126,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2009,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Bread, whole-wheat, commercially prepared",
+    "foodCals": 254,
+    "foodPortions": [
+      {
+        "id": 121952,
+        "value": 1,
+        "measureUnit": {
+          "id": 1050,
+          "name": "slice",
+          "abbreviation": "slice"
+        },
+        "gramWeight": 32.1,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2012,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0\" fat, select, cooked, roasted",
+    "foodCals": 176,
+    "foodPortions": [
+      {
+        "id": 187488,
+        "value": 1,
+        "measureUnit": {
+          "id": 1046,
+          "name": "roast",
+          "abbreviation": "roast"
+        },
+        "modifier": "cooked",
+        "gramWeight": 462,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2011,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, choice, raw",
+    "foodCals": 155,
+    "foodPortions": [
+      {
+        "id": 187489,
+        "value": 1,
+        "measureUnit": {
+          "id": 1054,
+          "name": "steak",
+          "abbreviation": "steak"
+        },
+        "modifier": "raw",
+        "gramWeight": 284,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2011,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+    "foodCals": 122,
+    "foodPortions": [
+      {
+        "id": 187490,
+        "value": 1,
+        "measureUnit": {
+          "id": 1046,
+          "name": "roast",
+          "abbreviation": "roast"
+        },
+        "modifier": "raw",
+        "gramWeight": 690,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2011,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+    "foodCals": 123,
+    "foodPortions": [
+      {
+        "id": 187491,
+        "value": 1,
+        "measureUnit": {
+          "id": 1046,
+          "name": "roast",
+          "abbreviation": "roast"
+        },
+        "modifier": "raw",
+        "gramWeight": 788,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2011,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8\" fat, select, raw",
+    "foodCals": 145,
+    "foodPortions": [
+      {
+        "id": 187492,
+        "value": 1,
+        "measureUnit": {
+          "id": 1054,
+          "name": "steak",
+          "abbreviation": "steak"
+        },
+        "modifier": "raw",
+        "gramWeight": 525,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2011,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled",
+    "foodCals": 219,
+    "foodPortions": [
+      {
+        "id": 187493,
+        "value": 1,
+        "measureUnit": {
+          "id": 1054,
+          "name": "steak",
+          "abbreviation": "steak"
+        },
+        "modifier": "cooked",
+        "gramWeight": 360,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2011,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Carrots, frozen, unprepared",
+    "foodCals": 37,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Cheese, dry white, queso seco",
+    "foodCals": 326,
+    "foodPortions": [
+      {
+        "id": 187494,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "grated",
+        "gramWeight": 97.3,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2009,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Cheese, ricotta, whole milk",
+    "foodCals": 157,
+    "foodPortions": [
+      {
+        "id": 187495,
+        "value": 0.2,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "",
+        "gramWeight": 64.6,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2016,
+        "amount": 0.2
+      },
+      {
+        "id": 187497,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "",
+        "gramWeight": 258,
+        "sequenceNumber": 3,
+        "minYearAcquired": 2016,
+        "amount": 1
+      },
+      {
+        "id": 187496,
+        "value": 0.5,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "",
+        "gramWeight": 129,
+        "sequenceNumber": 3,
+        "minYearAcquired": 2016,
+        "amount": 0.5
+      }
+    ]
+  },
+  {
+    "foodName": "Cheese, swiss",
+    "foodCals": 393,
+    "foodPortions": [
+      {
+        "id": 187498,
+        "value": 1,
+        "measureUnit": {
+          "id": 1050,
+          "name": "slice",
+          "abbreviation": "slice"
+        },
+        "modifier": "regular",
+        "gramWeight": 21.9,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2013,
+        "amount": 1
+      },
+      {
+        "id": 187499,
+        "value": 1,
+        "measureUnit": {
+          "id": 1050,
+          "name": "slice",
+          "abbreviation": "slice"
+        },
+        "modifier": "thin",
+        "gramWeight": 10.9,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2013,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Figs, dried, uncooked",
+    "foodCals": 249,
+    "foodPortions": [
+      {
+        "id": 187501,
+        "value": 1,
+        "measureUnit": {
+          "id": 1071,
+          "name": "each",
+          "abbreviation": "each"
+        },
+        "modifier": "",
+        "gramWeight": 8.4,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 187500,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "",
+        "gramWeight": 149,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2001,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Lettuce, cos or romaine, raw",
+    "foodCals": 17,
+    "foodPortions": [
+      {
+        "id": 187502,
+        "value": 1,
+        "measureUnit": {
+          "id": 1117,
+          "name": "bunch",
+          "abbreviation": "bunch"
+        },
+        "modifier": "",
+        "gramWeight": 581,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2001,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Melons, cantaloupe, raw",
+    "foodCals": 34,
+    "foodPortions": [
+      {
+        "id": 187508,
+        "value": 1,
+        "measureUnit": {
+          "id": 1060,
+          "name": "wedge",
+          "abbreviation": "wedge"
+        },
+        "modifier": "medium (1/8 of medium melon)",
+        "gramWeight": 69,
+        "sequenceNumber": 6,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 187506,
+        "value": 1,
+        "measureUnit": {
+          "id": 1060,
+          "name": "wedge",
+          "abbreviation": "wedge"
+        },
+        "modifier": "large (1/8 of large melon)",
+        "gramWeight": 102,
+        "sequenceNumber": 4,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 187509,
+        "value": 1,
+        "measureUnit": {
+          "id": 1071,
+          "name": "each",
+          "abbreviation": "each"
+        },
+        "modifier": "small (about 4-1/4\" dia)",
+        "gramWeight": 441,
+        "sequenceNumber": 7,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 187505,
+        "value": 1,
+        "measureUnit": {
+          "id": 1071,
+          "name": "each",
+          "abbreviation": "each"
+        },
+        "modifier": "large (about 6-1/2\" dia)",
+        "gramWeight": 814,
+        "sequenceNumber": 3,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 187503,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "cubes",
+        "gramWeight": 160,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 187511,
+        "value": 10,
+        "measureUnit": {
+          "id": 1044,
+          "name": "pieces",
+          "abbreviation": "pieces"
+        },
+        "modifier": "balls",
+        "gramWeight": 138,
+        "sequenceNumber": 9,
+        "minYearAcquired": 2001,
+        "amount": 10
+      },
+      {
+        "id": 187504,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "diced",
+        "gramWeight": 156,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 187507,
+        "value": 1,
+        "measureUnit": {
+          "id": 1071,
+          "name": "each",
+          "abbreviation": "each"
+        },
+        "modifier": "medium (about 5\" dia)",
+        "gramWeight": 552,
+        "sequenceNumber": 5,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 187510,
+        "value": 1,
+        "measureUnit": {
+          "id": 1060,
+          "name": "wedge",
+          "abbreviation": "wedge"
+        },
+        "modifier": "small (1/8 of small melon)",
+        "gramWeight": 55,
+        "sequenceNumber": 8,
+        "minYearAcquired": 2001,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Oranges, raw, navels",
+    "foodCals": 47,
+    "foodPortions": [
+      {
+        "id": 187512,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "sections no membranes",
+        "gramWeight": 165,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2001,
+        "amount": 1
+      },
+      {
+        "id": 187513,
+        "value": 1,
+        "measureUnit": {
+          "id": 1071,
+          "name": "each",
+          "abbreviation": "each"
+        },
+        "modifier": " 2-7/8\" dia",
+        "gramWeight": 140,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2001,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",
+    "foodCals": 43,
+    "foodPortions": [
+      {
+        "id": 187514,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "",
+        "gramWeight": 246,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2018,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Pears, raw, bartlett",
+    "foodCals": 57,
+    "foodPortions": [
+      {
+        "id": 187515,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "slices",
+        "gramWeight": 140,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2000,
+        "amount": 1
+      },
+      {
+        "id": 187517,
+        "value": 1,
+        "measureUnit": {
+          "id": 1071,
+          "name": "each",
+          "abbreviation": "each"
+        },
+        "modifier": "medium",
+        "gramWeight": 178,
+        "sequenceNumber": 3,
+        "minYearAcquired": 2000,
+        "amount": 1
+      },
+      {
+        "id": 187518,
+        "value": 1,
+        "measureUnit": {
+          "id": 1071,
+          "name": "each",
+          "abbreviation": "each"
+        },
+        "modifier": "large",
+        "gramWeight": 230,
+        "sequenceNumber": 4,
+        "minYearAcquired": 2000,
+        "amount": 1
+      },
+      {
+        "id": 187516,
+        "value": 1,
+        "measureUnit": {
+          "id": 1071,
+          "name": "each",
+          "abbreviation": "each"
+        },
+        "modifier": "small",
+        "gramWeight": 148,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2000,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Restaurant, Chinese, sweet and sour pork",
+    "foodCals": 260,
+    "foodPortions": [
+      {
+        "id": 187519,
+        "value": 1,
+        "measureUnit": {
+          "id": 1069,
+          "name": "order",
+          "abbreviation": "order"
+        },
+        "gramWeight": 611,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2009,
+        "amount": 1
+      },
+      {
+        "id": 187520,
+        "value": 3,
+        "measureUnit": {
+          "id": 1044,
+          "name": "pieces",
+          "abbreviation": "pieces"
+        },
+        "gramWeight": 41.8,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2009,
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "foodName": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
+    "foodCals": 34,
+    "foodPortions": [
+      {
+        "id": 187522,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "",
+        "gramWeight": 246,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2018,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Sauce, salsa, ready-to-serve",
+    "foodCals": 29,
+    "foodPortions": [
+      {
+        "id": 187523,
+        "value": 2,
+        "measureUnit": {
+          "id": 1001,
+          "name": "tablespoon",
+          "abbreviation": "tbsp"
+        },
+        "gramWeight": 35.7,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2011,
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "foodName": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+    "foodCals": 50,
+    "foodPortions": [
+      {
+        "id": 187524,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "",
+        "gramWeight": 245,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2018,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Sausage, breakfast sausage, beef, pre-cooked, unprepared",
+    "foodCals": 328,
+    "foodPortions": [
+      {
+        "id": 187525,
+        "value": 1,
+        "measureUnit": {
+          "id": 1033,
+          "name": "link",
+          "abbreviation": "link"
+        },
+        "modifier": "",
+        "gramWeight": 18.6,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2016,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Sausage, Italian, pork, mild, cooked, pan-fried",
+    "foodCals": 322,
+    "foodPortions": [
+      {
+        "id": 187526,
+        "value": 1,
+        "measureUnit": {
+          "id": 1033,
+          "name": "link",
+          "abbreviation": "link"
+        },
+        "modifier": "medium",
+        "gramWeight": 86.6,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2016,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Sausage, pork, chorizo, link or ground, cooked, pan-fried",
+    "foodCals": 346,
+    "foodPortions": [
+      {
+        "id": 187528,
+        "value": 1,
+        "measureUnit": {
+          "id": 1033,
+          "name": "link",
+          "abbreviation": "link"
+        },
+        "modifier": "long",
+        "gramWeight": 186,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2016,
+        "amount": 1
+      },
+      {
+        "id": 187529,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "ground",
+        "gramWeight": 185,
+        "sequenceNumber": 3,
+        "minYearAcquired": 2016,
+        "amount": 1
+      },
+      {
+        "id": 187527,
+        "value": 1,
+        "measureUnit": {
+          "id": 1033,
+          "name": "link",
+          "abbreviation": "link"
+        },
+        "modifier": "medium",
+        "gramWeight": 80.4,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2016,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Milk, whole, 3.25% milkfat, with added vitamin D",
+    "foodCals": 60,
+    "foodPortions": [
+      {
+        "id": 187530,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "",
+        "gramWeight": 249,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2018,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Sausage, turkey, breakfast links, mild, raw",
+    "foodCals": 169,
+    "foodPortions": [
+      {
+        "id": 187532,
+        "value": 1,
+        "measureUnit": {
+          "id": 1039,
+          "name": "package",
+          "abbreviation": "package"
+        },
+        "modifier": "",
+        "gramWeight": 450,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2016,
+        "amount": 1
+      },
+      {
+        "id": 187531,
+        "value": 1,
+        "measureUnit": {
+          "id": 1033,
+          "name": "link",
+          "abbreviation": "link"
+        },
+        "modifier": "",
+        "gramWeight": 27.9,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2016,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Sugars, granulated",
+    "foodCals": 385,
+    "foodPortions": [
+      {
+        "id": 187533,
+        "value": 1,
+        "measureUnit": {
+          "id": 1002,
+          "name": "teaspoon",
+          "abbreviation": "tsp"
+        },
+        "gramWeight": 4,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2006,
+        "amount": 1
+      },
+      {
+        "id": 187534,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "gramWeight": 188,
+        "sequenceNumber": 2,
+        "minYearAcquired": 2006,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",
+    "foodCals": 220,
+    "foodPortions": [
+      {
+        "id": 187535,
+        "value": 1,
+        "measureUnit": {
+          "id": 1010,
+          "name": "paired cooked w",
+          "abbreviation": "ckd pr g"
+        },
+        "modifier": "crumbles",
+        "gramWeight": 155,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2009,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Ham, sliced, restaurant",
+    "foodCals": 121,
+    "foodPortions": [
+      {
+        "id": 187559,
+        "value": 1,
+        "measureUnit": {
+          "id": 1050,
+          "name": "slice",
+          "abbreviation": "slice"
+        },
+        "modifier": "",
+        "gramWeight": 16.2,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2018,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Cheese, American, restaurant",
+    "foodCals": 375,
+    "foodPortions": [
+      {
+        "id": 187632,
+        "value": 1,
+        "measureUnit": {
+          "id": 1050,
+          "name": "slice",
+          "abbreviation": "slice"
+        },
+        "modifier": "",
+        "gramWeight": 16,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2017,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Broccoli, raw",
+    "foodCals": 31,
+    "foodPortions": [
+      {
+        "id": 187633,
+        "value": 1,
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "modifier": "chopped",
+        "gramWeight": 76,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2001,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Ketchup, restaurant",
+    "foodCals": 117,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Eggs, Grade A, Large, egg white",
+    "foodCals": 55,
+    "foodPortions": [
+      {
+        "id": 190538,
+        "value": 1,
+        "measureUnit": {
+          "id": 1099,
+          "name": "egg",
+          "abbreviation": "egg"
+        },
+        "modifier": "white",
+        "gramWeight": 34,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2019,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Eggs, Grade A, Large, egg yolk",
+    "foodCals": 334,
+    "foodPortions": [
+      {
+        "id": 192336,
+        "value": 1,
+        "measureUnit": {
+          "id": 1099,
+          "name": "egg",
+          "abbreviation": "egg"
+        },
+        "modifier": "yolk",
+        "gramWeight": 17,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2019,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Eggs, Grade A, Large, egg whole",
+    "foodCals": 148,
+    "foodPortions": [
+      {
+        "id": 193781,
+        "value": 1,
+        "measureUnit": {
+          "id": 1099,
+          "name": "egg",
+          "abbreviation": "egg"
+        },
+        "modifier": "whole without shell",
+        "gramWeight": 50.3,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2019,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Pork, cured, bacon, cooked, restaurant",
+    "foodCals": 500,
+    "foodPortions": [
+      {
+        "id": 193859,
+        "value": 1,
+        "measureUnit": {
+          "id": 1050,
+          "name": "slice",
+          "abbreviation": "slice"
+        },
+        "modifier": "",
+        "gramWeight": 6.3,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2017,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Flour, wheat, all-purpose, enriched, bleached",
+    "foodCals": 366,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Flour, wheat, all-purpose, enriched, unbleached",
+    "foodCals": 358,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Flour, wheat, all-purpose, unenriched, unbleached",
+    "foodCals": 362,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Flour, whole wheat, unenriched",
+    "foodCals": 370,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Flour, bread, white, enriched, unbleached",
+    "foodCals": 363,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Flour, rice, white, unenriched",
+    "foodCals": 359,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Flour, corn, yellow, fine meal, enriched",
+    "foodCals": 364,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Onions, red, raw",
+    "foodCals": 44,
+    "foodPortions": [
+      {
+        "id": 234609,
+        "value": 1,
+        "measureUnit": {
+          "id": 1120,
+          "name": "Onion",
+          "abbreviation": "Onion"
+        },
+        "modifier": "Edible",
+        "gramWeight": 197,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2019,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Onions, yellow, raw",
+    "foodCals": 38,
+    "foodPortions": [
+      {
+        "id": 234698,
+        "value": 1,
+        "measureUnit": {
+          "id": 1120,
+          "name": "Onion",
+          "abbreviation": "Onion"
+        },
+        "modifier": "Edible",
+        "gramWeight": 143,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2019,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Garlic, raw",
+    "foodCals": 143,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Flour, soy, defatted",
+    "foodCals": 366,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Flour, soy, full-fat",
+    "foodCals": 452,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Flour, rice, brown",
+    "foodCals": 365,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Flour, rice, glutinous",
+    "foodCals": 358,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Flour, pastry, unenriched, unbleached",
+    "foodCals": 358,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Onions, white, raw",
+    "foodCals": 35,
+    "foodPortions": []
+  },
+  {
+    "foodName": "Bananas, overripe, raw",
+    "foodCals": 85,
+    "foodPortions": [
+      {
+        "id": 267488,
+        "value": 1,
+        "measureUnit": {
+          "id": 1119,
+          "name": "Banana",
+          "abbreviation": "Banana"
+        },
+        "modifier": "Peeled",
+        "gramWeight": 110,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2019,
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "foodName": "Bananas, ripe and slightly ripe, raw",
+    "foodCals": 97,
+    "foodPortions": [
+      {
+        "id": 267795,
+        "value": 1,
+        "measureUnit": {
+          "id": 1119,
+          "name": "Banana",
+          "abbreviation": "Banana"
+        },
+        "modifier": "Peeled",
+        "gramWeight": 115,
+        "sequenceNumber": 1,
+        "minYearAcquired": 2019,
+        "amount": 1
+      }
+    ]
+  }
+]
