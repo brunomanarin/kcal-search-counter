@@ -4,7 +4,6 @@ import * as sqlite3 from 'sqlite3';
 
 export async function POST(req: NextRequest){
   const body = await req.json()
-  console.log(body.query);
   try {
     const db = await sqlite.open({
       filename: './foodData.sqlite',
