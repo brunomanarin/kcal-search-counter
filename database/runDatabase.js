@@ -6,9 +6,11 @@ async function main() {
       filename: './foodData.sqlite',
       driver: sqlite3.Database
     });
-    const allFood = await db.run('SELECT * FROM food');
+    const allFood = await db.all('SELECT * FROM foodData');
+    const allFoodPortions = await db.all('SELECT * FROM foodPortions');
 
     console.log(JSON.stringify(allFood, null, 2));
+    //console.log(JSON.stringify(allFoodPortions, null, 2));
 
   db.close();
   
