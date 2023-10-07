@@ -24,4 +24,8 @@ for (const food of foodArray) {
     
 }
 
-fs.appendFileSync('./data/parsedFoodData.json', JSON.stringify(filteredFoodArray, null, 2));
+const jsonObject= filteredFoodArray.map(JSON.stringify);
+uniqueSet = new Set(jsonObject);
+uniqueArray = Array.from(uniqueSet).map(JSON.parse);
+
+fs.appendFileSync('./data/parsedFoodData.json', JSON.stringify(uniqueArray, null, 2));
